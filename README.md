@@ -1,6 +1,4 @@
-# db_monitoring
-
-DB Event Monitoring System (Dooray Webhook Alert)
+# 🚨 DB Event Monitoring System (Dooray Webhook Alert)
 
 MariaDB의 db_event_log / db_event 데이터를 기반으로
 배치 작업 지연·미완료 이벤트를 자동 감지하고 Dooray Webhook으로 알림을 전송하는 모니터링 시스템입니다.
